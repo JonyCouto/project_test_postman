@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Celular", "price": 1499.99, "quantity": 5, "discount": 0.5, "img": "http://localhost/apiPostman/api/assets/imgs/celular.png"},
+    {"id": 2, "name": "Notebook", "price": 2999.99, "quantity": 5, "discount": 0.2, "img": "http://localhost/apiPostman/api/assets/imgs/notebook.png"},
+    {"id": 3, "name": "TV", "price": 999.99, "quantity": 5, "discount": 0.1, "img": "http://localhost/apiPostman/api/assets/imgs/tv.png"},
+    {"id": 4, "name": "PS5", "price": 3999.99, "quantity": 5, "discount": 0.3, "img": "http://localhost/apiPostman/api/assets/imgs/ps5.png"},
+    {"id": 5, "name": "Teclado", "price": 299.99, "quantity": 5, "discount": 0.05, "img": "http://localhost/apiPostman/api/assets/imgs/teclado.png"}
+]
